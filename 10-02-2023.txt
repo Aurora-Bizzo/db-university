@@ -10,6 +10,6 @@
 
 6 = SELECT * FROM `degrees` WHERE `level` = 'magistrale';
 
-7 = 
+7 = SELECT COUNT(*) FROM `departments`;
 
 8 = 
